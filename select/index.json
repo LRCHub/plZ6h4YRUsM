@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "(please)forgive",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-14T02:08:58.289322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Please Forgive Us",
+      "artist": "10,000 Maniacs",
+      "has_synced": true,
+      "path": "select/01_Please_Forgive_Us_10,000_Maniacs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Too Much MIDI (Please Forgive Me)",
+      "artist": "Ford & Lopatin",
+      "has_synced": true,
+      "path": "select/02_Too_Much_MIDI_(Please_Forgive_Me)_Ford_&_Lopatin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/03_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Please Forgive Me (Explicit)",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/04_Please_Forgive_Me_(Explicit)_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Andy Moor feat. Nicole McKenna",
+      "has_synced": false,
+      "path": "select/05_Please_Forgive_Me_Andy_Moor_feat._Nicole_McKenna.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Andy Moor Ft. Nicole Mckenna",
+      "has_synced": false,
+      "path": "select/06_Please_Forgive_Me_Andy_Moor_Ft._Nicole_Mckenna.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/07_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/08_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/09_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/10_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "David Gray",
+      "has_synced": true,
+      "path": "select/11_Please_Forgive_Me_David_Gray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Please Forgive My Heart (iTunes Session)",
+      "artist": "Bahamas",
+      "has_synced": false,
+      "path": "select/12_Please_Forgive_My_Heart_(iTunes_Session)_Bahamas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/13_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Please Forgive Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/14_Please_Forgive_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(please)forgive",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_(please)forgive_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
